@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Courier</string>
+    <string name="menu_name">Give tasks</string>
+    <string name="button_activeTask">Активні доставки</string>
+    <string name="button_finishTask">Завершені доставки</string>
+    <string name="context_map">Показать на карте</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="OrderNumber">Номер замовлення</string>
+    <string name="ProductName">Назва товару</string>
+    <string name="Name">Отримувач</string>
+    <string name="Contacts">Контакти</string>
+</resources>
